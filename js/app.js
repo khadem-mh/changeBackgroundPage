@@ -9,7 +9,6 @@ const colors = [
     'gold',
     'gray',
     'brown',
-    'white',
     'black'
 ]
 
