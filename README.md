@@ -13,7 +13,11 @@ In this page, clicking the mouse anywhere on the page changes the color of the p
 >> 
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=FAFF09&random=false&width=100&height=25&lines=JavaScript)
 
-## Visit Page
 check this [URL](https://khadem-mh.github.io/changeBackgroundPage/) for visit this page
+___
+ Social Network
 
-## social network
+[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/github-square.svg" width="35">](https://github.com/khadem-mh)
+[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/envelope-square.svg" width="35">](https://mailto:khadem13359@gmail.com)
+[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/telegram.svg" width="35">](https://web.telegram.org/k/#6411851503)
+
