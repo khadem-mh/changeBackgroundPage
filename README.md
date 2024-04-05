@@ -1,5 +1,5 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
- `React Js` expert and `FrontEnd Developer` from Iran
+ <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Project
 It's a simple but interesting page
