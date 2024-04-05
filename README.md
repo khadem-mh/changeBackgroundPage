@@ -17,7 +17,7 @@ check this [URL](https://khadem-mh.github.io/changeBackgroundPage/) for visit th
 ___
  Social Network
 
-[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/github-square.svg" width="35">](https://github.com/khadem-mh)
-[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/envelope-square.svg" width="35">](https://mailto:khadem13359@gmail.com)
-[<img src="https://raw.githubusercontent.com/nekofar/awesome-freelancers/master/assets/icons/dark/telegram.svg" width="35">](https://web.telegram.org/k/#6411851503)
+![image](./Images/github.png)
+![image](./Images/telegram.png)
+![image](./Images/whatsapp.png)
 
