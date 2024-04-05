@@ -15,9 +15,7 @@ In this page, clicking the mouse anywhere on the page changes the color of the p
 
 check this [URL](https://khadem-mh.github.io/changeBackgroundPage/) for visit this page
 ___
- Social Network
-
-![image](./Images/github.png)
-![image](./Images/telegram.png)
-![image](./Images/whatsapp.png)
-
+>### Social Network
+> [<img src="./Images/github.png" width="30">](https://github.com/khadem-mh)
+> [<img src="./Images/telegram.png" width="30">](https://web.telegram.org/k/#6411851503)
+> [<img src="./Images/whatsapp.png" width="30">](https://github.com/khadem-mh)
